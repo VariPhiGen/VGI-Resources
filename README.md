@@ -1,5 +1,20 @@
 # VGI Resources – Masterclass Library
 
+[![YouTube](https://img.shields.io/badge/YouTube-@vgiskill-red?logo=youtube&logoColor=white)](https://www.youtube.com/@vgiskill)
+![LangChain](https://img.shields.io/badge/LangChain-LCEL%20%7C%20Agents%20%7C%20LangGraph-0C8A8A)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLO-FF6B6B)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-CNNs-orange?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-MLPs%20%7C%20Pose%20%7C%20YOLO-E64A19?logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20%26%20Video%20CV-blue?logo=opencv)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Embeddings%20%7C%20Models-FFCC4D?logo=huggingface)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Store-0A7BBB)
+![Chroma](https://img.shields.io/badge/Chroma-Vector%20DB-6B21A8)
+![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-Tracking-FFBE00?logo=weightsandbiases&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-CUDA-76B900?logo=nvidia)
+![Roboflow](https://img.shields.io/badge/Roboflow-Datasets-7957D5)
+![Unstructured](https://img.shields.io/badge/Unstructured-Doc%20Parsing-444444)
+
 ![VGI Masterclass Channel](logos/youtube_lecture_wide_screenshot.png)
 
 ![LangChain](logos/langchain_logo.png) ![Ultralytics](logos/ultralytics_logo.jpeg) ![Hugging Face](logos/Huggingface.png) ![NVIDIA](logos/nvidia.png) ![Roboflow](logos/roboflow_logo.jpeg) ![Unstructured](logos/unstructured.png) ![Weights & Biases](logos/wand_DB.png)
@@ -12,7 +27,7 @@ Provider-agnostic, hands-on resources for computer vision, deep learning, and La
 
 ## ⚙️ Tech Stack (at a glance)
 
-- **LLM & Agents:** LangChain, LangGraph, LCEL, tools/agents, memory, RAG
+- **LLM & Agents:** LangChain, LCEL, LangGraph, tools/agents, memory, RAG
 - **Models & Inference:** Ultralytics YOLO (detection/pose/seg), TensorFlow/Keras CNNs & MLPs
 - **CV & Media:** OpenCV, PIL, image/video processing, augmentation
 - **Vector & RAG:** FAISS, ChromaDB (examples), embeddings (OpenAI/Gemini/HF), retrieval chains
