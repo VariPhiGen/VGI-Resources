@@ -1,5 +1,9 @@
 # 🔗 Mastering LangChain: Build Production-Grade Generative AI Applications
 
+[![Mastering LangChain on YouTube](Langchain Lecure 1.jpg)](https://www.youtube.com/@vgiskill)
+
+**YouTube Channel:** https://www.youtube.com/@vgiskill
+
 Comprehensive hands-on course for industry engineers & developers. **Provider-Agnostic** (OpenAI • Gemini • Hugging Face).
 
 ---
