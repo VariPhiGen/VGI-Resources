@@ -1,6 +1,6 @@
 # 🔗 Mastering LangChain: Build Production-Grade Generative AI Applications
 
-[![Mastering LangChain on YouTube](Langchain Lecure 1.jpg)](https://www.youtube.com/@vgiskill)
+[![Mastering LangChain on YouTube](Langchain_Lecture_1.jpg)](https://www.youtube.com/@vgiskill)
 
 **YouTube Channel:** https://www.youtube.com/@vgiskill
 
